@@ -1,5 +1,3 @@
-# Data-Scaling-Normalization-Transformation-With-Code-
-
 # 📘 Data Scaling, Normalization & Transformation (Complete Guide)
 
 A complete guide to **data preprocessing techniques in Machine Learning**, including **Scaling, Normalization, and Transformation** with clear **definitions, formulas, and explanations**.
